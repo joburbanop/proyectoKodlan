@@ -6,7 +6,7 @@ El sitio utiliza tecnologías como Flask, HTML, CSS y JavaScript para ofrecer un
 
 En cuanto al diseño, el sitio utiliza una paleta de colores brillantes y vibrantes para transmitir una sensación de energía y vitalidad. La disposición de los elementos en la página y la tipografía utilizada también se han cuidado para garantizar una experiencia de usuario óptima.
 
-#Uso
+# Uso
 Para utilizar Kodlan, sigue los siguientes pasos:
 
 Abre una terminal en la carpeta raíz del proyecto.
