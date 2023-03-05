@@ -16,7 +16,7 @@ Asegúrate de tener Python 3.7 o superior instalado en tu computadora.
 
 Abre una terminal en la carpeta raíz del proyecto y ejecuta el siguiente comando:
 
-pip install -r requirements.txt
+__pip install -r requirements.txt__
 
 Este comando instalará todas las dependencias necesarias para que el proyecto funcione correctamente.
 
@@ -26,6 +26,6 @@ Para utilizar, sigue los siguientes pasos:
 Abre una terminal en la carpeta raíz del proyecto.
 Ejecuta el siguiente comando:
 
-python run.py
+__python run.py__
 
 Abre tu navegador web preferido y entra a http://localhost:5000/.
