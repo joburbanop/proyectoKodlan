@@ -1,0 +1,44 @@
+$bg-color: #315af2
+
+header
+  background-color: $bg-color
+
+footer
+    background-color:$bg-color
+.pading-top
+  padding-top: 10rem
+
+@mixin menu_amburgesa_posicion
+  .menu
+    justify-content: end
+
+@mixin mobile-header
+  .logo
+    width: 20%
+    display: inline-block
+    img
+      max-height: 100%
+      max-width: 100%
+      object-fit: contain
+
+  .menu_amburgesa
+    width: 30%
+    display: inline-block
+    text-align: right
+
+  .navbar-collapse
+    transition: all 0.3s ease
+    margin-top: -2%
+    background-color: $bg-color
+    padding-top: 0%
+
+@media (max-width: 580px)
+  header
+    @include mobile-header
+
+@media (max-width: 996px)
+  .menu
+    @include menu_amburgesa_posicion
+
+  .padding-top
+    padding-top: 25%

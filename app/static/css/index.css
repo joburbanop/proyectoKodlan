@@ -1,0 +1,44 @@
+header {
+  background-color: #315af2;
+}
+
+footer {
+  background-color: #315af2;
+}
+
+.pading-top {
+  padding-top: 10rem;
+}
+
+@media (max-width: 580px) {
+  header .logo {
+    width: 20%;
+    display: inline-block;
+  }
+  header .logo img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  header .menu_amburgesa {
+    width: 30%;
+    display: inline-block;
+    text-align: right;
+  }
+  header .navbar-collapse {
+    transition: all 0.3s ease;
+    margin-top: -2%;
+    background-color: #315af2;
+    padding-top: 0%;
+  }
+}
+@media (max-width: 996px) {
+  .menu .menu {
+    justify-content: end;
+  }
+  .padding-top {
+    padding-top: 25%;
+  }
+}
+
+/*# sourceMappingURL=index.css.map */
