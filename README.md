@@ -1,6 +1,7 @@
 # proyectoKodlan
-pagina realizada como test de kodlan
-es una pagina informativa, fue construida con flask como franword de python 
-y tecnologias como bootstrap, sass, css.
 
-es una pagina informativa sobre el curso de python pro 
+un sitio web desarrollado en Flask.
+
+El sitio utiliza tecnologías como Flask, HTML, CSS y JavaScript para ofrecer una experiencia de usuario dinámica y atractiva. También se utiliza el motor de plantillas Jinja2 para generar contenido dinámico en las páginas web.
+
+En cuanto al diseño, el sitio utiliza una paleta de colores brillantes y vibrantes para transmitir una sensación de energía y vitalidad. La disposición de los elementos en la página y la tipografía utilizada también se han cuidado para garantizar una experiencia de usuario óptima.
