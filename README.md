@@ -23,9 +23,9 @@ Este comando instalará todas las dependencias necesarias para que el proyecto f
 # Uso
 Para utilizar, sigue los siguientes pasos:
 
-Abre una terminal en la carpeta raíz del proyecto.
+Abre una terminal en la carpeta raíz (app) del proyecto. 
 Ejecuta el siguiente comando:
 
-__python run.py__
+__python3 app.py__
 
 Abre tu navegador web preferido y entra a http://localhost:5000/.
